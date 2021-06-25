@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Security Screen</string>
+    <string name="repeat">Repeat passcode</string>
+</resources>
